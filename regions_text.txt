@@ -1,0 +1,114 @@
+=== REGION_15 ===
+pfu
+
+
+=== REGION_9 ===
+(brak tekstu wykrytego)
+
+
+=== REGION_7 ===
+Małgorzata Skibińska
+
+Dyrektor Zarządzająca ds. Rozwoju
+i Utrzymania Produktów oraz Underwritingu
+
+
+=== DANE POLISY ===
+Dane polisy
+
+numer polisy: 1084917712
+okres ubezpieczenia:
+18.08.2025 r. ~ 17.08.2026 r.
+
+
+=== UBEZPIECZAJACY ===
+Ubezpieczający
+
+ERP KRZYSZTOF ŚLIWA
+
+REGON: 365179306
+
+adres: OSOLIN, CHMIELNA 3, 55-120 OBORNIKI
+ŚLĄSKIE
+
+e-mail: SLIWKIPOCZTAGGMAIL.COM
+
+telefon: Klient odmówił
+
+
+=== WLASCICIEL POJAZDU ===
+Właścicieł pojazdu
+
+PEKAO LEASING SPÓŁKA Z OGRANICZONĄ
+ODPOWI EDZIALNOŚCIĄ W WARSZAWIE
+ODDZIAŁ WE WROCŁAWIU
+
+REGON: 43056012800060
+
+adres: OŁAWSKA 35, 50-124 WROCŁAW
+e-mail: info@pekaoleasing.com.pl
+telefon: Klient odmówił
+
+
+=== UBEZPIECZONY POJAZD ===
+Ubezpieczony pojazd
+
+nr rejestracyjny: DWSWA06
+
+marka: JEEP, model: GRAND CHEROKEE,
+typ: GRAND CHEROKEE
+
+rok produkcji: 2020
+
+VIN: 1C4RJFBG8LC299113
+
+pojemność silnika: 3604 ccm
+
+
+=== LEASINGODAWCA ===
+Leasingodawca
+
+PEKAO LEASING SPÓŁKA Z OGRANICZONĄ
+ODPOWIEDZIALNOŚCIĄ W WARSZAWIE
+ODDZIAŁ WE WROCŁAWIU
+
+REGON: 43056012800060
+
+adres: OŁAWSKA 35, 50-124 WROCŁAW
+e-mail: info@pekaoleasing.com.p!
+
+telefon: Klient odmówił
+
+
+=== LEASINGOBIORCA ===
+Leasingobiorca
+
+KRZYSZTOF JACEK ŚLIWA
+
+PESEL: 88092306798
+
+adres: OSOLIN, CHMIELNA 3, 55-120 OBORNIKI
+ŚLĄSKIE
+
+e-mail: SLIWKIPOCZTA@GMAILCOM
+
+telefon: +48693068300
+
+
+=== PLATNOSCI ===
+Płatności
+
+odbiorca: PZU SA
+
+Rondo Ignacego Daszyńskiego 4,
+
+00-843 Warszawa
+
+nr rachunku: 28 1240 6960 3014 0110 3271 5600
+tytuł przelewu: Polisa nr 1084917712
+
+kwota: 4 606 zł
+
+płatność: jednorazowa
+
+termin płatności: 26.08.2025 r.
